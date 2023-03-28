@@ -371,3 +371,11 @@ header label{
         width: 45rem;
     }
 }
+@media(max-width:345px){
+   .foot{
+      background:none;
+}    
+   .category, .gal{
+   min-width:95%;
+}
+}
